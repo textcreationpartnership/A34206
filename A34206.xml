@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Concerning the priviledge of the vnder clark's in the Court of Chancery as now in clayme and practice</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34206</idno>
+            <idno type="STC">Wing C5698</idno>
+            <idno type="STC">ESTC R40861</idno>
+            <idno type="EEBO-CITATION">19524810</idno>
+            <idno type="OCLC">ocm 19524810</idno>
+            <idno type="VID">108958</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34206)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108958)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1684:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Concerning the priviledge of the vnder clark's in the Court of Chancery as now in clayme and practice</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with slight loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Court of Chancery.</term>
+               <term>Courts --  England --  Officials and employees.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108958:1" rendition="simple:additions"/>
+            <p>CONCERNING THE PRIVILEDGE OF THE VNDER CLARK'S In the Court of CHANCERY AS NOW IN CLAYME AND PRACTISE.</p>
+            <p>LONDON, Printed <hi>Anno Dom.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:108958:2"/>
+            <pb n="3" facs="tcp:108958:2"/>
+            <head>Tiranny and Popery diſcovered, by a breife and narative diſcourſe, of the claimed priviledge of a ſix clarks clarke, alias, a ſubclarke in the Court of Chancery.</head>
+            <head>And humbly Dedicated to His Excellency the Lord Generall <hi>FAIRFAX.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>N time of open hoſtility for upholding the nationall rights and liberties of the free-borne people of England, againſt all invaſive attempts of prerogative or power; by fortune (or rather to my coſtly misfortune) I have met with a limbe of tyranny, and popery, as yet lur<g ref="char:EOLhyphen"/>king in high places of Iudicature, and at this day practiſed, under a notion of the juriſdiction and priviledges of the courts, to their reſpective Clarks, inſomuch that a ſub clarke in the court of Chancery (in right of ſuch his relation) claims and enjoyes the following advantages.</p>
+            <p>If he be diſpoſed to contention, he may, at his election, under ſome equitable pretence, trouble his propoſed adver<g ref="char:EOLhyphen"/>ſary, by calling him into the ſaid court by writ of <hi>Sub poena,</hi> and there charging him by any tedious frivilous bill, which perſonally to appeare to, coppy out, anſwere, pleade, or de<g ref="char:EOLhyphen"/>murre to; together with the expences of his travill, atten<g ref="char:EOLhyphen"/>dance,
+<pb n="4" facs="tcp:108958:3"/> and a day of hearing (beſides motions, orders, and anſwers that commonly interpoſe) the poore defendante is ſoone run out of 20. or 30. pound to the clarks nothing, in reſpect of his priviledge; and if then the bill be diſmiſt with 20. ſhillings coſts againſt this clark, it may be thought a happy reparation, notwithſtanding the drawing up, en<g ref="char:EOLhyphen"/>tring, and coppy of this order of diſmiſſion<g ref="char:punc">▪</g> with the <hi>Sup<g ref="char:EOLhyphen"/>poena,</hi> and other charges conducing to the recovery of theſe coſts, may posſibly come to nineteene ſhillings of the money.</p>
+            <p>Or if otherwiſe this clarke pretends to a legall right, which he enjoyes not, he may take his writ of priviledge out of the Pettibagg Office, and thereby compell the parſonall appea<g ref="char:EOLhyphen"/>rance of the deffendant, with foure ſabſedy men for ſpetiall bayle to (his <hi>individuum vagum)</hi> his action then after to bee made appeare, albeit the defendant himſelfe be reſponſable for tenfould the value of the clarke, if wholy expoſed to ſale, and the like for ſo many ſeverall actions as he ſhall pretend to. All which being performed, there yet remains a rem<g ref="char:EOLhyphen"/>nant of further charge and ſervitude: for this clarke may conſtraine the defendant to attend his pleaſure <hi>(a die in diem)</hi> to receive his declaration and plead to it <g ref="char:punc">▪</g>there being no imparlance againſt his priviledge) but the clark at li<g ref="char:EOLhyphen"/>berty not to declare before the third following terme, and thereby put the deffendants to a further charge and atten<g ref="char:EOLhyphen"/>dance.</p>
+            <p>So that ſuppoſe this deffendants abode be 100. or 200 miles diſtant from <hi>London,</hi> thither he and ſuch his baile muſt goe with hazard of their healths, neglect of their families, loſſe in their ſeverall occaſions and certaine great expences in their travell and attendance as aforeſaid, to the clarks no<g ref="char:EOLhyphen"/>thing; nor the buſineſſe, when once underſtood, appearing
+<pb n="5" facs="tcp:108958:3"/> any other then like the fabulous iſſue of the Mountains, which after a great and long expectation of ſome huge birth, it proves but a ridiculous mouſe, ſome triviall 2 pence matter, or rather a deſigne of vexation.</p>
+            <p>Now again admitting this Clerk to be never ſo injuri<g ref="char:EOLhyphen"/>ous to others, in their bodies, goods, or good names (be their caſe proper for Law or Equity) the Clerk claims it for part of his priviledge, not to be impleaded but in one of the fore<g ref="char:EOLhyphen"/>named Courts, where the Plaintiffe will aſſuredly find the Salve worſe then the ſore (unleſſe it be the greater) for he ſhall certainly ſpend his Eſtate to nothing, and have great fortune if he ever get halfe his coſts allowed, nor any Bayle to be put in for ſecurity of what he ſhall recover.</p>
+            <p>So that this clerk (in right of ſuch his place and privi<g ref="char:EOLhyphen"/>ledge) carries about him <hi>(Armatam Nequitiam)</hi> ſuch deſperate deſtructive advantages, that he may at pleaſure exerciſe an inſulting tyrannicall power over others (of what incompa<g ref="char:EOLhyphen"/>rable worth ſoever) and himſelfe remaine as careleſſe in do<g ref="char:EOLhyphen"/>ing right, as fearleſſe of ſuffering wrong, ever making his priviledge Inſtrumentall to his malicious and miſcheivous purpoſes in the one caſe, or the other.</p>
+            <p>Now how dangerous is it to intruſt the pravety of mans nature, with a priviledge ſo inconſiſtent with the liberty of the Subject, and ſo unwarranted by the Law of God and the lawes of the Nation, both which; Impartialy look<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on the Actions of man-kind without reſpect of perſons, whe<g ref="char:EOLhyphen"/>ther in adminiſtration of reward or puniſhment; being the two feet on which the Empires of the world march, with honour and ſafety.</p>
+            <p>And what leſſe could be expected from the late Lord Keeper, <hi>Finch,</hi> and others, the then Judges of the Land, then a compliancy by their utmoſt skill, and cunning to ſerve
+<pb n="6" facs="tcp:108958:4"/> their Prince in the deſignes of Ship-mony, and all illegall Monopolies and miſcariages, (to the begetting of inteſtine miſerable Warres) when as yet they continue ſuch high and Papall indulgencies to their Clarks; whereby they give them power to become Devills to honeſt men; by de<g ref="char:EOLhyphen"/>ſtroying them in their livelyhoods, and comforts of life as aforeſaid.</p>
+            <p>And what hath beene here ſaid of <hi>Chancery Clarks,</hi> being above 70. in number, doth in part extend to the Attorneys and Clarks in all the Courts of Record at <hi>Weſtminster,</hi> for I find it affirmed by divers of them that <hi>(Mutatis Mutandis)</hi> they all lay claime to priviledges by their places, to the che<g ref="char:EOLhyphen"/>riſhing of much vermine in the land, when they incline to contention.</p>
+            <p>It remaines now to underſtand how theſe priviledges be gronnded, whether on Grant from the Crown, or the cu<g ref="char:EOLhyphen"/>ſtomary uſage and practiſe of the Courts. If it be anſwered by Grant; it is replied <hi>(nihil Dat quod non habet)</hi> nor the <hi>Crown,</hi> nor the <hi>King</hi> (when in his Solſtice of <hi>Majeſty)</hi> was ever ad<g ref="char:EOLhyphen"/>mitted ſuch a priviledge in his owne caſe. For if any Sub<g ref="char:EOLhyphen"/>ject had cauſe to capitulate his right with the King by con<g ref="char:EOLhyphen"/>teſt in law or equity, (were he Plaintiffe or Defendant) the King by his Counſell could only make a faire uſe of thoſe prerogative advantages which divers Statutes of the Land and the practiſe of our municipall Lawes had intitu<g ref="char:EOLhyphen"/>led him to, (in ſpeciall Caſes) for upholding the rights of the Crown againſt the cunning and craft of common perſons; and that without the leaſt Arbitrary power, or undue and deſtructive proſecution.</p>
+            <p>Or if it be anſwered to be a priviledge, grounded on an ancient &amp; continued practiſe of the courts; it is then replyed <hi>(Malus uſus eſt abolendus)</hi> nay more, a cuſtome ſo repugnant
+<pb n="7" facs="tcp:108958:4"/> to law, reaſon, and common right, as this is (in moſt of the ſpecies;) is in it ſelfe void. For every Native (in common right) hath a like and equall portion of birthright in the Lawes of the Nation; and be all alike levell to law. And how prepoſterous is it to reaſon, and how horrid to nature, for a ſuperiour to be expoſed to miſcheife and miſery, at the diſcresſion of his inferiour fellow ſubject, by any he<g ref="char:EOLhyphen"/>theniſh grant or cuſtome, let any men judge.</p>
+            <p>But to draw to a concluſion (brevity being the thing in<g ref="char:EOLhyphen"/>tended) I beleive theſe priviledges to be of a mixt nature, patched up partly by graunt, and partly by the cuſtomary favours of the court, as a boone intended to the clarks, which write to the great Seale, in reſpect of ſuch their reference and ſubordination thereto. I alſo find this graunt and theſe cuſtomary fovours to have been very auncient, and to have had their original in time of greateſt ſuperſtition and blind<g ref="char:EOLhyphen"/>neſſe, when the ſix clarks themſelves were preiſts; but as now (after ſo many years light of reformation, and in the time of an intended thorough reformation) to be counte<g ref="char:EOLhyphen"/>nanced in the higheſt courts of Judgment and Juſtice, is a wonder to amaſement.</p>
+            <p>Now out upon all relative worſhip; as being a relique of popery and worſt of Jdolatry. Out upon ſuch Jdolizing fee<g ref="char:EOLhyphen"/>ble mortal <hi>Majeſty,</hi> in aſcribing ſuch honour &amp; immunities to any ſcrub clarke that (in way of livelyhood) offers up a lit<g ref="char:EOLhyphen"/>tle Jnke and Paper to the effigies of its perſon, and impreſs of 'its power.</p>
+            <p>For according to the latitude of Religion, or reaſon, in this relative worſhip, the invocation of Saints (who are conſtant attendants about the omnipotent Majeſty of the immortall God) may be fully juſtified. And what honour or rather addoration may any peice of wood claime (above the <hi>Ce<g ref="char:EOLhyphen"/>
+               </hi> 
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
